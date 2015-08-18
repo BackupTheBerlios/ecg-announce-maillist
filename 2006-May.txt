@@ -1,0 +1,21 @@
+From jekutsch at inf.fu-berlin.de  Wed May 10 15:57:04 2006
+From: jekutsch at inf.fu-berlin.de (Sebastian Jekutsch)
+Date: Wed, 10 May 2006 15:57:04 +0200
+Subject: [Ecg-announce] New ECG release 1.1.0
+Message-ID: <85D25331FFB7AE4C900EA467D4ADA39215555A@circle.pcpool.mi.fu-berlin.de>
+
+Hi,
+
+A new ECG release 1.1.0 is available at
+https://developer.berlios.de/project/showfiles.php?group_id=3356. Sorry,
+but since we currently don't have an automatic support for change lists
+per release, it won't list the numbers of bug fixes, enhancements, and
+change revisions. 
+
+In addition, we have a new update site
+http://www.inf.fu-berlin.de/ecg/update with contains the latest Eclipse
+Sonsor with inline support.
+
+Sebastian
+
+

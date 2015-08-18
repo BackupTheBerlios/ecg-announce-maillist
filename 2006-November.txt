@@ -1,0 +1,42 @@
+From jekutsch at inf.fu-berlin.de  Mon Nov 20 11:30:47 2006
+From: jekutsch at inf.fu-berlin.de (Sebastian Jekutsch)
+Date: Mon, 20 Nov 2006 11:30:47 +0100
+Subject: [Ecg-announce] ECG release 1.1.4 available
+Message-ID: <B11A7FFF8FCDC14880468DC93015D7AC043C71@spree.pcpool.mi.fu-berlin.de>
+
+A new ECG release 1.1.4 is available on BerliOS at http://developer.berlios.de/project/showfiles.php?group_id=3356 as well as the Eclipse update site http://www.inf.fu-berlin.de/ecg/update. 
+
+Change logs are attached.
+
+Cheers,
+Sebastian
+---
+Arbeitsgruppe Software Engineering
+Institut f?r Informatik
+Freie Universit?t Berlin
+Takustr. 9, 14195 Berlin, Germany
++49 30 838 75239
+jekutsch at inf.fu-berlin.de  
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: ChangeLog.txt
+URL: <https://lists.berlios.de/pipermail/ecg-announce/attachments/20061120/3afa6369/attachment.txt>
+
+From jekutsch at inf.fu-berlin.de  Tue Nov 21 09:31:38 2006
+From: jekutsch at inf.fu-berlin.de (Sebastian Jekutsch)
+Date: Tue, 21 Nov 2006 09:31:38 +0100
+Subject: [Ecg-announce] Update-site updated to 1.1.4
+Message-ID: <B11A7FFF8FCDC14880468DC93015D7AC043C7F@spree.pcpool.mi.fu-berlin.de>
+
+Hi again,
+
+in case anybody tried to update the ECG-Eclipse-Plugin to 1.1.4
+yesterday, please try again. Although the latest software version was
+available at http://www.inf.fu-berlin.de/ecg/update, the plug-in
+reported itself as still being 1.1.3. If you already had 1.1.3
+installed, Eclipse "thought" there was no new version available. Sorry
+for that, it is fixed now.
+
+Sebastian
+
+

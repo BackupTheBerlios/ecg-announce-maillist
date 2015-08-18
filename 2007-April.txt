@@ -1,0 +1,31 @@
+From jekutsch at inf.fu-berlin.de  Thu Apr  5 15:01:56 2007
+From: jekutsch at inf.fu-berlin.de (Sebastian Jekutsch)
+Date: Thu, 5 Apr 2007 15:01:56 +0200
+Subject: [Ecg-announce] ECG release 1.2 available
+Message-ID: <B11A7FFF8FCDC14880468DC93015D7AC0C3C14@spree.pcpool.mi.fu-berlin.de>
+
+A new ECG release 1.2 is available on BerliOS at
+http://developer.berlios.de/project/showfiles.php?group_id=3356 as well
+as on the Eclipse update site. 
+
+Currently, http://www.inf.fu-berlin.de/ecg/update doesn't seem to work,
+use
+http://www.inf.fu-berlin.de/inst/ag-se/research/ecg/update or
+http://www.inf.fu-berlin.de/inst/ag-se/research/ecg2/update instead. The
+update location "updatebeta" has been cancelled.
+
+The ApplicationTitleLogger Sensor remains available at .../atl (instead
+of .../update). The FocusTracker Sensor hasn't been updated as well; you
+can still find the latest version at http://www.focustracker.org/update.
+
+Change logs for ECG Sensor and Lab are attached. This release only
+includes minor improvements. The change in minor release number (instead
+of micro release number) is due to a changed naming scheme.
+
+Cheers,
+Sebastian
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: ChangeLog.txt
+URL: <https://lists.berlios.de/pipermail/ecg-announce/attachments/20070405/eec0a437/attachment.txt>
+

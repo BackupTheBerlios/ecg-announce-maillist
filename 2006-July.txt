@@ -1,0 +1,29 @@
+From jekutsch at inf.fu-berlin.de  Fri Jul 21 15:17:09 2006
+From: jekutsch at inf.fu-berlin.de (Sebastian Jekutsch)
+Date: Fri, 21 Jul 2006 15:17:09 +0200
+Subject: [Ecg-announce] Neue ECG Version 1.1.3
+Message-ID: <B11A7FFF8FCDC14880468DC93015D7AC043947@spree.pcpool.mi.fu-berlin.de>
+
+Hi,
+
+the new ECG release 1.1.3 is available on BerliOS at http://developer.berlios.de/project/showfiles.php?group_id=3356 as well as on the Eclipse update site http://www.inf.fu-berlin.de/ecg/update. Release notes and change log are attached. Sorry, but the change log currently only starts with 1.1.3 :-)
+
+Cheers,
+Sebastian
+---
+Sebastian Jekutsch
+Arbeitsgruppe Software Engineering
+Institut f?r Informatik
+Freie Universit?t Berlin
+Takustr. 9, 14195 Berlin, Germany
++49 30 838 75239
+jekutsch at inf.fu-berlin.de  
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: ReleaseNotes.txt
+URL: <https://lists.berlios.de/pipermail/ecg-announce/attachments/20060721/e9c615d3/attachment.txt>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: ChangeLog.txt
+URL: <https://lists.berlios.de/pipermail/ecg-announce/attachments/20060721/e9c615d3/attachment-0001.txt>
+
